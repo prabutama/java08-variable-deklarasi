@@ -9,7 +9,7 @@ public class main {
         System.out.println("nilai x baru = " + a);
 
         //Kita akan membuat deklarasi
-        int b; //declarasi
+        int b; //declaration
         b = 7;
         System.out.println("nilai b = " + b);
 
